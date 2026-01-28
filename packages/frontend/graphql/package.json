@@ -16,7 +16,7 @@
     "@graphql-codegen/typescript-operations": "^4.0.1",
     "@types/lodash-es": "^4.17.9",
     "prettier": "^3.0.3",
-    "vitest": "1.2.2"
+    "vitest": "1.6.1"
   },
   "scripts": {
     "postinstall": "gql-gen --errors-only"
@@ -24,8 +24,8 @@
   "dependencies": {
     "@affine/env": "workspace:*",
     "graphql": "^16.8.1",
-    "lodash": "^4.17.21",
-    "lodash-es": "^4.17.21",
+    "lodash": "^4.17.23",
+    "lodash-es": "^4.17.23",
     "nanoid": "^5.0.1"
   },
   "installConfig": {

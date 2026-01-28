@@ -23,7 +23,7 @@
     "foxact": "^0.2.20",
     "jotai": "^2.5.1",
     "jotai-effect": "^0.5.0",
-    "lodash-es": "^4.17.21",
+    "lodash-es": "^4.17.23",
     "nanoid": "^5.0.3",
     "react": "18.2.0",
     "tinykeys": "patch:tinykeys@npm%3A2.1.0#~/.yarn/patches/tinykeys-npm-2.1.0-819feeaed0.patch",
@@ -39,9 +39,9 @@
     "async-call-rpc": "^6.3.1",
     "react": "^18.2.0",
     "rxjs": "^7.8.1",
-    "vite": "^5.0.6",
+    "vite": "^5.4.21",
     "vite-plugin-dts": "3.7.2",
-    "vitest": "1.2.2"
+    "vitest": "1.6.1"
   },
   "peerDependencies": {
     "@affine/templates": "*",
