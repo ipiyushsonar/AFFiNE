@@ -41,9 +41,9 @@
     "@blocksuite/blocks": "0.12.0-canary-202402062232-9a8554c",
     "@blocksuite/store": "0.12.0-canary-202402062232-9a8554c",
     "fake-indexeddb": "^5.0.0",
-    "vite": "^5.0.6",
+    "vite": "^8.0.16",
     "vite-plugin-dts": "3.7.2",
-    "vitest": "1.2.2",
+    "vitest": "3.2.6",
     "y-indexeddb": "^9.0.11",
     "yjs": "^13.6.10"
   },
