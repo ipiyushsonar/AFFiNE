@@ -24,8 +24,8 @@
   "dependencies": {
     "@affine/env": "workspace:*",
     "graphql": "^16.8.1",
-    "lodash": "^4.17.21",
-    "lodash-es": "^4.17.21",
+    "lodash": "^4.18.1",
+    "lodash-es": "^4.18.1",
     "nanoid": "^5.0.1"
   },
   "installConfig": {
